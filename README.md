@@ -2,7 +2,7 @@
 
 Squad의 대형을 유지하면서 도착지점들을 구성하고,
 
-Squad에 소속된 Unit의 적절한 도착지점을 분해하여, 해당 지점으로 Unit들을 이동시키고자 합니다.
+Squad에 소속된 Unit의 적절한 도착지점을 분배하여, 해당 지점으로 Unit들을 이동시키고자 합니다.
 
 <img src="./Assets/Art/ScreenShot.jpg" width="30%" height="30%"></img>
 
