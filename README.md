@@ -9,7 +9,7 @@ Squad에 소속된 Unit의 적절한 도착지점을 분배하여, 해당 지점
 
 ## Youtube
 
-https://youtu.be/XXXX
+https://youtu.be/vvVHoJ0_KoI
 
 
 ## Compile
